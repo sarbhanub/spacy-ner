@@ -6,8 +6,7 @@ A web-app built using Flask to extract named enities from text.
 
 ## See the app in action 
 
-Open on Deta [(link)](https://entityrecog-1-i7449443.deta.app)\
-Open on Render (Slower) [(link)](https://named-entity-recognizer.onrender.com)
+Open on Render [(link)](https://named-entity-recognizer.onrender.com)
 
 ## Used Frameworks and Libraries
 
